@@ -1,0 +1,7 @@
+name = "Ecosystem"
+uuid = "0a2306fa-7dd8-4d86-8618-c19534734922"
+authors = ["zyw"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9.3"
